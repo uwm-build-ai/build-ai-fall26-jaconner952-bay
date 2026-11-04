@@ -9,11 +9,11 @@
   ],
   "by": "jaconner952",
   "engine": "e411cd4",
-  "at": "2026-11-04T21:44:24.165Z",
+  "at": "2026-11-04T21:45:51.428Z",
   "history": [
    {
     "sha": "2be454ecceda1f4cee5593334566043b78fd2944",
-    "at": "2026-11-04T21:44:24.165Z",
+    "at": "2026-11-04T21:45:51.428Z",
     "entry": "module_07/my_app.md",
     "engine": "e411cd4",
     "parts": [
@@ -21,7 +21,7 @@
      "tabs"
     ],
     "todo": 0,
-    "note": "not written yet"
+    "note": "Play the tour {: .avatar_trigger target=\"app_tour\" }  ```yaml face:   skin: \"#e0ac69\"   hair: full   hair_color: \"#4a342"
    }
   ]
  }
